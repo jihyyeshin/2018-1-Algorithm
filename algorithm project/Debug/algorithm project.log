@@ -1,0 +1,17 @@
+﻿  My Algorithm.cpp
+c:\users\tlsjh\desktop\3학년 1학기\알고리즘\프로젝트\algorithm project\algorithm project\my algorithm.cpp(50): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\tlsjh\desktop\3학년 1학기\알고리즘\프로젝트\algorithm project\algorithm project\my algorithm.cpp(56): warning C4101: 'ResultSeq' :참조되지 않은 지역 변수입니다.
+c:\users\tlsjh\desktop\3학년 1학기\알고리즘\프로젝트\algorithm project\algorithm project\my algorithm.cpp(124): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\tlsjh\desktop\3학년 1학기\알고리즘\프로젝트\algorithm project\algorithm project\my algorithm.cpp(119): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+c:\users\tlsjh\desktop\3학년 1학기\알고리즘\프로젝트\algorithm project\algorithm project\my algorithm.cpp(212): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tlsjh\desktop\3학년 1학기\알고리즘\프로젝트\algorithm project\algorithm project\my algorithm.cpp(308): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+c:\users\tlsjh\desktop\3학년 1학기\알고리즘\프로젝트\algorithm project\algorithm project\my algorithm.cpp(308): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\tlsjh\desktop\3학년 1학기\알고리즘\프로젝트\algorithm project\algorithm project\my algorithm.cpp(308): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\tlsjh\desktop\3학년 1학기\알고리즘\프로젝트\algorithm project\algorithm project\my algorithm.cpp(321): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\tlsjh\desktop\3학년 1학기\알고리즘\프로젝트\algorithm project\algorithm project\my algorithm.cpp(385): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tlsjh\desktop\3학년 1학기\알고리즘\프로젝트\algorithm project\algorithm project\my algorithm.cpp(386): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  benchmark.cpp
+  코드를 생성하고 있습니다...
+c:\users\tlsjh\desktop\3학년 1학기\알고리즘\프로젝트\algorithm project\algorithm project\my algorithm.cpp(414): warning C4715: 'charTint': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  algorithm project.vcxproj -> C:\Users\tlsjh\Desktop\3학년 1학기\알고리즘\프로젝트\algorithm project\Debug\algorithm project.exe
